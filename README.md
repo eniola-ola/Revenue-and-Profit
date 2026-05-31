@@ -16,4 +16,4 @@ I explored the relationship between different data sets and their effect on Reve
 
 <p align="center">
 Preview: <br/>
-<img src="https://"<img width="1071" height="600" alt="Screenshot 2026-05-31 130114" src="https://github.com/user-attachments/assets/38b4ad02-169e-4c6f-beee-58cbb8ee6e2f" />
+<img src="https://"..." />
